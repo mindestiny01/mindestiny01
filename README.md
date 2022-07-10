@@ -1,6 +1,5 @@
 ## Hello coders💻, My name is SAMUEL PANDOHAN TERAMPIL GULTOM 👋
 <br />
-
 ### I'm Indonesian, Student, Programmer, and Thinker
 - 🏠 I'm currently living in North Cikarang, Bekasi Regency, West Java
 - I'm currently studying 🖥️Computer Science🖥️ at [President University](https://president.ac.id/)
